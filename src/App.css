@@ -8,6 +8,15 @@ h2{
   background-color: black;
   opacity: 70%;
 }
+h3 {
+  color: red;
+  background-color: black;
+  opacity: 70%;
+  width: 30%;
+  margin-left: 27%;
+  position: absolute;
+  
+}
 
 .App {
   text-align: center;
