@@ -3,6 +3,12 @@ body {
   color: #fff;
 }
 
+h2{
+  color: #00ff89;
+  background-color: black;
+  opacity: 70%;
+}
+
 .App {
   text-align: center;
 }
